@@ -143,3 +143,42 @@
 	![](https://github.com/chengcnaplex/JNIDemo/blob/master/img/hellofromc.png)
 		
 	![](https://github.com/chengcnaplex/JNIDemo/blob/master/img/sayhellotoc.png)
+
+
+
+
+
+二：安卓 pcm 采集和播放 
+
+MyAudioRecord2  
+
+
+
+
+三：编解码 pcm-->amr ,amr -->pcm 
+
+MyAudioRecord_amr 
+
+
+编解码 采用：https://github.com/kevinho/opencore-amr-android
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
